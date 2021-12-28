@@ -1,7 +1,7 @@
 #include "gff_utils.h"
 
-extern bool verbose;
-extern bool debugMode;
+ bool verbose;
+ bool debugMode;
 
 //bool debugState=false;
 
